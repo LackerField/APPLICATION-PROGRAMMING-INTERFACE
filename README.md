@@ -4,8 +4,6 @@
 
 - **Full Name:** Phan Anh Kiệt
 - **Student ID:** 25127204
-- **Faculty:** Faculty of Information Technology, VNUHCM-University of Science
-- **Course:** Computational Thinking
 - **Lab Instructors:** Nguyen Ngoc Minh Chau, Le Duc Khoan
 
 ## Model Information
@@ -99,4 +97,4 @@ python test_api.py
 
 ## Demonstration Video
 
-- **Video Link:** [Insert your YouTube or Google Drive link here]
+- **Video Link:** [Video](https://drive.google.com/file/d/1Lz6L2tJLY58O64y6ISTtbQEq9H43Vext/view?usp=sharing)
